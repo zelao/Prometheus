@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prometheus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_teatro">Teatro</string>
+    <string name="title_activity_apresentacoes">Apresentacoes</string>
+    
+    <string name="title_activity_gcmbroadcast_receiver"> </string>
+    <string name="carregando_teatros">Carregando Teatros</string>
+	<string name="title_activity_apresentacao">ApresentacaoActivity</string>
+    <string name="apresentacoes">Apresentações</string>
+    <string name="generos">Todos os Generos</string>
+    <string name="comedia">Comédia</string>
+    <string name="drama">Drama</string>
+    <string name="standUp">Stand Up</string>
+    <string name="musical">Musical</string>
+    <string name="sarau">Sarau</string>
+    <string name="teatros_proximos">Teatros Próximos</string>
+    <string name="tracar_rota">Traçar Rota</string>
+   
+    <string name="_t"></string>
+    <string name="_t1">Teatro Adamastor</string>
+    <string name="_t2">Teatro Adamastor Pimentas</string>
+    <string name="_t3">Teatro Nelson Rodrigues</string>
+    <string name="_t4">Teatro Padre Bento</string>
+    <string name="_t5">Teatro Ponte Alta</string>
+    
+    <string name="_h"></string>
+    <string name="_h1">Qui. a Dom. das 07:00 ás 23:00</string>
+    <string name="_h2">Qui. a Dom. das 11:00 ás 24:00</string>
+    <string name="_h3">Qui. a Dom. das 11:00 ás 24:00</string>
+    <string name="_h4">Qui. a Dom. das 11:00 ás 24:00</string>
+    <string name="_h5">Qui. a Dom. das 11:00 ás 24:00</string>
+    
+     
+    <string name="_a"></string>
+    <string name="_a1">Cia Kómus em O Selo da Preguiça</string>
+    <string name="_a2">Cia Kómus em O Auto da Barca do Inferno</string>
+    <string name="_a3">Cia Kómus em A Casa Errada</string>
+    <string name="_a4">Cia Kómus em Encruziada</string> 
+</resources>
